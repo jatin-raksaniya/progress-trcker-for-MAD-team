@@ -1,0 +1,192 @@
+MARKETING
+ AND
+ DEPARTMENT
+Monthly Progress Report
+May 
+2026  |
+  Reporting Period: May 1 – May 15, 2026
+Executive Summary
+The Marketing Department delivered strong cross-functional performance during the first half of May 2026. Key highlights include the successful rebranding of Explore 
+YourSpace
+ Academy across digital platforms, the launch of a Japan Event strategic initiative, and significant progress in brand identity development, content creation, automation learning, and website enhancement. The department demonstrated proactive collaboration, skill development, and strategic alignment with organizational growth objectives.
+At-a-Glance: Key Highlights
+Reporting Period
+May 1 – May 15, 2026 (Working Days: 11)
+Departments Covered
+Education, Graphics & Branding, Website Development
+Major Campaigns Active
+Explore 
+YourSpace
+ Academy Rebrand, Japan Event, Brand Book
+Content Deliverables Produced
+10+ Social Media Posts / Reels / Carousels
+Blogs Published
+2 Articles (Company Website)
+Brand Assets Created
+Logo Variants, Newsletter, Pitch Deck, Cover Posters
+Website Features Launched
+Newsletter Section, Search Engine, Favicon, Rocket Model
+Automation Tools in Learning
+Pabbly
+ Connect (Workflows, Router, Parser, Filters)
+Strategic Meetings Held
+Japan Event, CEO Branding Review, Education Dept. Review
+Issues
+2
+ Hardware Issue (
+unre
+solved)
+1. Education Department
+The Education Department focused on operational coordination, webinar management, stakeholder engagement, and building automation capabilities to enhance long-term efficiency.
+1.1  Webinar
+ & Program Management
+Prepared a structured monthly webinar schedule for May 2026 and distributed joining links to all registered participants.
+Issued certificates to webinar participants, maintaining an organized post-event engagement process.
+Developed and compiled course topic outlines for upcoming educational programs, ensuring curriculum readiness.
+Prepared a production script for a scheduled shoot, contributing to educational content development.
+1.2  Administrative
+ Coordination & Stakeholder Engagement
+Drafted and prepared Minutes of Meeting (MOM) for the marketing and education team discussions, ensuring clear documentation of action items and decisions.
+Coordinated on MOU revision based on direction from senior leadership; revised and circulated the updated document for review within the same day.
+Maintained and updated the MECA tracking sheet and lead database to ensure data integrity and pipeline visibility.
+Proactively coordinated an offline visit with an external stakeholder (Subbarao Sir) alongside internal team members, managing scheduling and logistics.
+Participated in a strategic discussion regarding job roles and education department work status with senior management (Biswa Sir), demonstrating ownership and forward-planning.
+1.3  Automation
+ & Technology Upskilling
+A key highlight of the month was an independent initiative to master 
+Pabbly
+ Connect — an automation platform — with the goal of streamlining lead management and communication workflows:
+Understood core workflow architecture, including trigger-action logic and execution flow.
+Explored and practiced Email Parser functionality to automate data extraction from incoming emails.
+Learned Router functionality to design conditional branching workflows based on dynamic inputs.
+Applied Filter-based automation logic for condition-specific workflow execution, along with error-handling and testing best practices.
+This automation capability is expected to reduce manual coordination effort and enable scalable lead nurturing workflows for the education department.
+1.4  Monthly
+ Meeting Participation
+Attended the all-department monthly meeting at the Sanand office, contributing to organizational alignment and cross-team updates.
+2. Graphics & Branding Department
+The Graphics and Branding Department executed a high volume of creative deliverables during May, encompassing brand identity development, social media content production, and strategic brand communication — all in close coordination with leadership and cross-functional teams.
+2.1  Brand
+ Identity: Explore 
+YourSpace
+ Academy
+Led the end-to-end logo development process for the newly rebranded Explore 
+YourSpace
+ Academy (transitioning from Infinity Cosmic Explorer / ICE), producing multiple concept variants and refining based on leadership and cross-team feedback.
+Facilitated collaborative branding discussions with senior leadership and the development team regarding visual identity, 
+color
+ palette, and typographic direction.
+Finalized the approved logo and delivered it as a production-ready brand asset for use across all digital and print channels.
+2.2  Newsletter
+ Production
+Designed, built, and finalized the April 2026 edition of the organizational newsletter, incorporating content from multiple contributors and presenting it in a polished, on-brand layout.
+Initiated layout planning and content structuring for the upcoming May edition, ensuring a proactive production pipeline.
+2.3  Social
+ Media Content Creation
+Produced a high volume of social media content including promotional posts, reels, carousels, event-specific creatives, and cover posters — all aligned with brand guidelines and engagement objectives.
+Created dedicated SPEXA event promotional creatives and social media assets for milestone announcements (including the cryogenic engine igniter test fire and new partnership launch).
+Conducted a structured competitive social media analysis to benchmark content quality, identify engagement gaps, and define improvement strategies — results to inform the social media roadmap going forward.
+Took on increased responsibility by being granted authority to independently upload and manage content on official social media platforms, reflecting growing trust and accountability.
+2.4  Pitch
+ Deck & Presentation Assets
+Incorporated CEO-directed revisions into the organizational pitch deck, including updated imagery, rocket visuals, and creative content suitable for social media repurposing.
+2.5  Brand
+ Book Development
+Proactively initiated the development of a comprehensive Brand Book for Explore 
+YourSpace
+ Academy — covering brand rationale, identity guidelines, typography, 
+color
+ system, and tone of voice.
+Completed content writing, initial layout design, and structural framing of the brand book, with the document progressing toward completion.
+2.6  Japan
+ Exhibition Research & Creative Strategy
+Contributed research, creative concepts, and planning ideas for the upcoming Japan Exhibition — covering presentation formats, brand representation, and event visuals.
+Actively participated in the Japan Event strategy session attended by the CEO, Marketing Team, and Web Development, sharing inputs on brand execution and experiential design.
+2.7  Skills
+ Development
+Dedicated focused time to design skills enhancement through self-directed learning (typography, 
+color
+ theory, branding principles, and layout strategies), directly applied to ongoing deliverables.
+3. Website Development Department
+The Website Development Department delivered significant platform updates, feature launches, and technical upskilling during May — all strategically aligned with the organizational rebranding initiative and the upcoming Japan Event.
+3.1  Platform
+ Rebranding: ICE → Explore 
+YourSpace
+ Academy
+Successfully executed the digital rebranding on the 
+Classplus
+ platform — updating the official website/app identity from Infinity Cosmic Explorer (ICE) to Explore 
+YourSpace
+ Academy — marking a critical milestone in the organization's rebranding rollout.
+3.2  Website
+ Content & Page Management
+Updated the Crew/Team page to reflect current organizational structure by removing profiles of resigned team members, ensuring visitors encounter accurate and up-to-date personnel information.
+Published two new blog articles on the company website: 'Bridging Academia and Aerospace' and '
+Honoring
+ Purpose and Perseverance' (CEO Award recognition), enhancing thought leadership and organic reach.
+Added a dedicated Newsletter Section to the website, archiving all editions from January through April 2026, creating a structured content library for visitors.
+Integrated a Search Engine tool into the website, significantly improving navigation and overall user experience — a feature that enables visitors to quickly discover relevant content.
+Added a Favicon to strengthen brand presence and professional appearance across browser tabs and bookmarks.
+Updated the 3D Rocket Model displayed on the website with a higher-clarity version, enhancing the visual quality of a key brand element.
+3.3  Japan
+ Event: Digital & Experiential Development
+Actively participated in the Japan Event strategic planning session with the CEO and cross-functional teams, contributing technical perspective on website updates, promotional asset requirements, and event presentation infrastructure.
+Initiated development of a 3D animated VR video experience for the Japan Event conference using Blender — exploring open-source high-refresh-rate visuals to deliver a premium classroom-quality viewing experience.
+Researched immersive digital experience formats suitable for international event settings, contributing to the organization's objective of making a compelling impression at the Japan conference.
+3.4  Social
+ Media Content Contributions
+Developed and published two high-impact social media posts covering key organizational milestones: the successful cryogenic engine igniter test fire and a new partnership announcement — content that contributed to brand visibility and audience engagement.
+3.5  AI
+ & Automation Tooling Exploration
+Proactively explored AI-based workflow tools — including Anthropic Claude and n8n — to identify opportunities for smarter content workflows, automation of repetitive development tasks, and enhanced productivity across the website function.
+This initiative reflects a forward-thinking approach to integrating intelligent tooling into the department's development and content pipeline.
+3.6  Technical
+ Challenges — Managed & Resolved
+Hardware disruptions (laptop non-functionality over two working days) were proactively managed by pivoting to learning-focused activities — including AI tool research and content workflow optimization — ensuring zero loss in productive output and continued departmental momentum.
+4. Cross-Departmental Highlights
+4.1  Explore
+ 
+YourSpace
+ Academy Rebrand Initiative
+All three departments collaborated effectively on the Explore 
+YourSpace
+ Academy rebranding effort — spanning logo design, 
+Classplus
+ platform update, brand book development, and newsletter production. This coordinated effort ensured brand consistency across digital, print, and educational touchpoints.
+4.2  Japan
+ Event Strategic Initiative
+The Japan Exhibition emerged as a major cross-departmental priority this month. The Graphics & Branding team contributed creative concepts, the Website team began developing a VR/3D experience, and leadership strategy sessions were held with the CEO and full marketing team. Execution planning is underway across all three departments.
+4.3  Monthly
+ All-Hands Meeting — Sanand Office
+All department members attended the monthly organizational meeting at the Sanand office at the start of May, reinforcing team alignment, shared priorities, and organizational communication.
+5. Challenges & How They Were Managed
+Hardware Disruption (Website Dept.)
+Laptop failure over 2 days was navigated by redirecting focus to AI tool research and content workflow exploration — maintaining productivity without interruption.
+MOU Revision Turnaround
+An urgent revision request from senior leadership was handled 
+same-day
+ with swift coordination, minimizing stakeholder wait time.
+Brand Book Scope
+The brand book was scoped as a significant undertaking; the team proactively broke it into structured phases (content → layout → design) and is progressing systematically.
+6. Planned Focus — Remainder of May 2026
+Education Department
+Complete 
+Pabbly
+ Automation setup and deploy first live workflow for lead nurturing.
+Execute scheduled Sunday webinar series for May; issue attendance certificates.
+Continue MOU follow-up and coordinate Subbarao Sir's offline visit.
+Graphics & Branding Department
+Finalize and publish the Brand Book for Explore 
+YourSpace
+ Academy.
+Continue social media content calendar execution and publish May newsletter.
+Develop Japan Exhibition visual assets and presentation creatives.
+Website Development Department
+Progress Blender-based VR/3D experience toward a Japan Event-ready prototype.
+Implement any remaining website updates identified in the Japan Event strategy session.
+Continue AI/n8n workflow automation exploration and propose implementation plan.
+Marketing 
+Department  |
+  May 
+2026  |
+  Confidential Internal Report
